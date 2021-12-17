@@ -1,6 +1,7 @@
-# DummyApp
+# Reproducable example to show issue with ngx-mqtt, Angular 13 & jest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+It uses the [angular-builders/jest](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) packages to configure Jest.
 
 ## Development server
 
